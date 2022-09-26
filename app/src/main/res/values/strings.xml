@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LandsScapeVSPortrait</string>
+    <string name="retrato">Retrato</string>
+    <string name="estoy_apaisado">Estoy apaisado</string>
+</resources>
